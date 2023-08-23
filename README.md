@@ -17,4 +17,4 @@ Explore um mundo de aprendizado envolvente e criativo! Nossa plataforma educacio
 * 📱 Layout responsivo, adaptando-se perfeitamente a todos os dispositivos.
 * 🎈 Cores e tipografia cuidadosamente selecionadas para um visual atraente.
 
-<img url:<iframe src="https://giphy.com/embed/U2MDh3POLyBGqxEGln" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/studiosoriginals-U2MDh3POLyBGqxEGln">via GIPHY</a></p>>
+![GIF](https://media.giphy.com/media/U2MDh3POLyBGqxEGln/giphy.gif)
