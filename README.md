@@ -2,7 +2,7 @@
 
 Explore um mundo de aprendizado envolvente e criativo! Nossa plataforma educacional oferece conteúdo inspirador para estudantes de todas as idades, redefinindo a educação.
 
-### 🔍 Explore:
+## 🔍 Explore:
 * 🌱 Descubra artigos sobre educação inovadora e estratégias de ensino.
 * 🎨 Explore recursos que incentivam a criatividade e a curiosidade.
 * 🚀 Aprenda de forma interativa e dinâmica, tornando o estudo mais divertido.
