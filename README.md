@@ -17,6 +17,4 @@ Explore um mundo de aprendizado envolvente e criativo! Nossa plataforma educacio
 * 📱 Layout responsivo, adaptando-se perfeitamente a todos os dispositivos.
 * 🎈 Cores e tipografia cuidadosamente selecionadas para um visual atraente.
 
-<div style = "width: 32px; height: 32px;">
-  ![GIF](https://media.giphy.com/media/U2MDh3POLyBGqxEGln/giphy.gif)
-</div>
+<img src="https://media.giphy.com/media/U2MDh3POLyBGqxEGln/giphy.gif" width="32" height="32">
